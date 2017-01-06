@@ -20,6 +20,8 @@ The distribution is shown for various student categories: below poverty level, m
 
 The graduation rates across various student categories for the island as a whole are diaplayed in a barplot as well.
 
+![Alt](docs_images/regiones.PNG?raw=true "Island-wide plots")
+
 Both plots are independent of the choices on the left panel of the app.
 
 ### Region-wide plots
@@ -27,18 +29,26 @@ Similar to the plots in the "Regiones" tab, The "Distritos" tab shows a boxplot 
 of the graduation rates of all the districts in the region chosen on the left panel. Below is a pair of
 plots for all the districts in the Caguas region.
 
+![Alt](docs_images/distritos.PNG?raw=true "Caguas reagion plots")
+
 ### District-wide plots
 The "Municipios" tab shows a scatterplot of the performance of all the high schools in the district chosen on the left panel.
-Below is an example of the high schools in the Santa Isabel district in the region of Ponce.
+Below is an example of the performance of the municipalities in the Santa Isabel district, in the region of Ponce.
+
+![Alt](docs_images/municipios.PNG?raw=true "Santa Isabel district")
 
 ### Individual high school performance
 The "Municipios" tab summarizes the performance of each individual high school in a municipality. The following plot 
 shows the performance of the schools in "San Juan I", in the district of the same name, in the region of San Juan.
 
+![Alt](docs_images/escuelas.PNG?raw=true "Individual high schools in San Juan I")
+
 ### Interactive table
 The "Tabla" tab allows the user to search, filter, and view individual high school performance in a given district. 
 For example, we can see the performance of the Pedro Falú Orellano high school by searching for "Orellano" in the 
 search bar at the top right.
+
+![Alt](docs_images/tabla_1.PNG?raw=true "Searchable table")
 
 ## References
 1. Dr. Disdier. (2015). ***Tasas de graduación en las escuelas superiores públicas de Puerto Rico: Año escolar 2013-2014*** [CSV file]. Retrieved from https://data.pr.gov/en/Educaci-n/Tasas-de-graduaci-n-en-las-escuelas-superiores-p-b/aysg-wxf9
